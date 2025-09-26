@@ -1,4 +1,4 @@
-# Email Threat Checker
+# PhishSpy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
 [![Python Version](https://img.shields.io/badge/python-3.x-brightgreen.svg)](#installation)  
