@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
 [![Python Version](https://img.shields.io/badge/python-3.x-brightgreen.svg)](#installation)  
 
-A Python + Tkinter desktop app that helps SOC / security analysts rapidly check suspicious URLs, IPs, and domains using the VirusTotal API.
+A Python + Tkinter desktop app that helps SOC / Security Analysts rapidly check suspicious URLs, IPs, and domains using the VirusTotal API.
 
 ---
 
